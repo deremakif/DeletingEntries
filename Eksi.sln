@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eksi", "Eksi\Eksi.csproj", "{80096954-2FB8-486C-85AD-1B11C3FA5ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80096954-2FB8-486C-85AD-1B11C3FA5ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80096954-2FB8-486C-85AD-1B11C3FA5ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80096954-2FB8-486C-85AD-1B11C3FA5ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80096954-2FB8-486C-85AD-1B11C3FA5ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8BC1D14-032D-4444-88BB-03D21F52A6CB}
+	EndGlobalSection
+EndGlobal
